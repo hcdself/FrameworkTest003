@@ -8,7 +8,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FrameworkTest003"
-  spec.version      = "0.0.1" #与git tag 保持一致
+  spec.version      = "0.0.2" #与git tag 保持一致
   spec.summary      = "A short description of FrameworkTest003."
 
   spec.description  = <<-DESC 
